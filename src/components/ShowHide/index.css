@@ -1,0 +1,45 @@
+.container {
+  background: linear-gradient(#fa7257, #fc63a7);
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.heading {
+  font-size: xx-large;
+  color: #ffffff;
+}
+.card {
+  display: flex;
+}
+.card1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+}
+.btn {
+  margin: 20px;
+  background-color: #ffffff;
+  border-radius: 5px;
+  height: 35px;
+  color: #fc63a7;
+  font-size: small;
+  width: 150px;
+  border-width: 0px;
+}
+.card2 {
+  background-color: #fddddb;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  border-radius: 10px;
+  width: max-content;
+}
+.text {
+  font-size: x-large;
+}
